@@ -1,5 +1,10 @@
 
 ```diff
+! you can view the website live here👇👇👇
+```
+<h3><a href="https://quizzical-visvesvaraya-fa818b.netlify.app/">click here to view app<a/></h3>
+  <br/><br/>
+```diff
 !Mobile friendly layout
 ```
 <img src="/projectImages/1.PNG"/>
